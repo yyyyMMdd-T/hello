@@ -7,5 +7,6 @@ public class Hello{
 		serr("测试测试!!");
 		System.out.println("测试你好");
 		System.out.println("色是你好");
+		System.out.println("测试你好22222222");
 	}
 }
